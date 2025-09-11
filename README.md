@@ -25,11 +25,6 @@ This course also uses the following AI Agent frameworks and services from Micros
 
 For more information on running the code for this course, go to the [Course Setup](./00-course-setup/README.md).
 
-## 🙏 Want to help?
-
-Do you have suggestions or found spelling or code errors? [Raise an issue](https://github.com/microsoft/ai-agents-for-beginners/issues?WT.mc_id=academic-105485-koreyst) or [Create a pull request](https://github.com/microsoft/ai-agents-for-beginners/pulls?WT.mc_id=academic-105485-koreyst)
-
-
 
 ## 📂 Each lesson includes
 
