@@ -26,5 +26,6 @@
 - Recurring on Every Saturday
 - Timings: 6.30 AM to 8.30 AM CET
 - Mode: Teams
+- [Teams Meeting Link]()
 - [WhatsApp Community](https://chat.whatsapp.com/DvRAdNZKZQhLK44m8TurAX?mode=ems_copy_c)
 
