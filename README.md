@@ -29,3 +29,8 @@
 - [Teams Meeting Link]()
 - [WhatsApp Community](https://chat.whatsapp.com/DvRAdNZKZQhLK44m8TurAX?mode=ems_copy_c)
 
+## 🗃️ Lessons
+
+| **Lesson**                                   | **Documents**                                    | **Video**                                                  |
+|----------------------------------------------|----------------------------------------------------|------------------------------------------------------------|
+| Day 1: Core Java basics      |         |   |
