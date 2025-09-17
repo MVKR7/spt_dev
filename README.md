@@ -31,6 +31,23 @@
 
 ## 🗃️ Lessons
 
+### SailPoint IdentityIQ
+
 | **Lesson**                                   | **Documents**                                    | **Video**                                                  |
 |----------------------------------------------|----------------------------------------------------|------------------------------------------------------------|
-| Day 1: Core Java basics      |         |   |
+| #1: Core Java basics      |   To be updated      |  To be updated |
+| #2: HR Application Onboarding      |   To be updated      |  To be updated  |
+| #3: Identity Object      |   To be updated      |  To be updated  |
+| #4: Link Object      |   To be updated      |  To be updated  |
+| #5: Application Object      |   To be updated      |  To be updated  |
+| #6: Relationship between Identity, Application and Link Objects      |   To be updated      |  To be updated  |
+| #7: Rules      |   To be updated      |  To be updated  |
+| #8: identityIQ Object Model      |   To be updated      |  To be updated  |
+
+### SailPoint IdentityNow
+
+| **Lesson**                                   | **Documents**                                    | **Video**                                                  |
+|----------------------------------------------|----------------------------------------------------|------------------------------------------------------------|
+| #1: Transforms      |   To be updated      |  To be updated |
+| #2: Rules      |   To be updated      |  To be updated  |
+| #3: APIs      |   To be updated      |  To be updated  |
