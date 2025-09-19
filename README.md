@@ -26,7 +26,7 @@
 - Recurring on Every Saturday
 - Timings: 6.30 AM to 8.30 AM CET
 - Mode: Teams
-- [Teams Meeting Link]()
+- [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjRkYmU1Y2ItZjcyMS00NGFjLWFjNGUtN2Q5ZmU1NmQ0MjZi%40thread.v2/0?context=%7b%22Tid%22%3a%225c4bdc29-f6f8-4d06-b00d-74eb22e6867a%22%2c%22Oid%22%3a%22d6dc4dcc-3fa5-4aed-b16f-5f207593b6c7%22%7d)
 - [WhatsApp Community](https://chat.whatsapp.com/DvRAdNZKZQhLK44m8TurAX?mode=ems_copy_c)
 
 ## 🗃️ Lessons
